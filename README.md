@@ -19,5 +19,5 @@ although decidedly tilted towards one party, may still have significant numbers 
 <li><b>Expand the scope</b>: Include all races in this primary, expand into additional primary races</li>
 <li><b>Add some sociological data</b>: Talk to people about what got them to the ballot or kept them home, 
 what made them feel comfortable/uncomfortable filling out the entire ballot</li>
-<li><b>Visualizations</b>: Put this data on a choropleth! What a fascinating visual that would be!</li>
+<li><b>Visualizations</b>: In this case, the campaign preferred speedy results to pretty results but imagine this data on a choropleth! What a fascinating visual that would be!</li>
 </ul>
